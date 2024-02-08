@@ -24,5 +24,5 @@ Don't forget to give the project a star! Thanks again!
 
 
 ## Contact
-Your Name - [vudityalas@gmail.com](mailto:your-email@example.co)
+My email - [vudityalas@gmail.com](mailto:your-email@example.co)
 
